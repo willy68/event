@@ -34,7 +34,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-.gitkeep
-index.php
-Post.php
