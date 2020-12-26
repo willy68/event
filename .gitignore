@@ -1,0 +1,40 @@
+.project
+.buildpath
+.settings
+*.log
+*.db
+*.swp
+vendor/*
+composer.lock
+phpunit.xml
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.editorconfig
+
+# IDE - VSCode
+.vscode/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+.gitkeep
+index.php
+Post.php
